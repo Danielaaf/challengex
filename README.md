@@ -43,4 +43,4 @@ When you run the application, you can visit this ports on your localhost to acce
 
 > This app needs some security improvement to get published on the cloud, but technichally it's ready for deployment :)
 
-> This app has a db with an existing user to start using the app. The user is username:admin and password:admin.
+> This app has a db with an existing user to start using the app. The user is username:admin and password:admin. Please unzip the db.rar file to test.
